@@ -1422,3 +1422,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.03-16.51.04:899][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2023.12.03-16.51.14:088][944]LogSlate: Window 'Content Browser' being destroyed
 [2023.12.03-16.51.14:093][944]LogSlate: Window 'Content Browser' being destroyed
+[2023.12.03-16.52.53:937][244]LogDerivedDataCache: C:/Users/Kamil Sell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.261 and deleted 0 files with total size 0 MiB and 474 empty folders. Scanned 702 files in 1666 folders with total size 19 MiB.
